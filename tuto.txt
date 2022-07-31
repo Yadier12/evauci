@@ -15,7 +15,7 @@ Comando para establecer el Host del moodle o la nube
 
 Se usa pasando la url del Host detrás del comando.
 
-/host https://aulacened.uci.cu/
+/host https://eva.uci.cu/
 
 ============================================
 Comando para configurar el Repo ID de el host
