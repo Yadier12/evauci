@@ -536,7 +536,7 @@ def onmessage(update,bot:ObigramClient):
 
         if '/start' in msgText:
             start_msg = 'Hola!\n'
-            start_msg+= 'Desarrollador: @JeanPssss\n'
+            start_msg+= 'Desarrollador: @Stsjsdid\n'
             start_msg+= 'Utilize el comando /help para leer toda la ayuda necesaria para la utilización del Bot.\n'
             bot.editMessageText(message,start_msg)
         # elif '/files' == msgText and user_info['cloudtype']=='moodle':
